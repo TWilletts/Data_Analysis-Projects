@@ -1,2 +1,2 @@
-# Data_Analysis-Wellbeing
+# Data_Analysis-Projects
 Example data analysis work 
